@@ -1,1 +1,14 @@
 spade
+kaggle
+aiohttp
+aiohttp_jinja2
+jinja2
+jinja2-time
+loguru
+cryptography
+slixmpp
+aiodns
+pycares
+numpy
+pandas
+nltk

@@ -11,6 +11,12 @@ This project is a multi-agent system designed to demonstrate the capabilities of
 3. Install dependencies: `pip install -r requirements.txt`
 4. Run the main script: `python main.py`
 
+## Usage and Testing
+
+1. Run the main script: `python main.py`
+2. To execute tests, navigate to the `tests` directory and run the test suite: `python -m unittest discover`
+3. For additional usage instructions, refer to the documentation in the `docs` directory.
+
 ## Group Members
 - Member 1
 - Member 2
